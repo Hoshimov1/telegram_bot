@@ -8,7 +8,7 @@ import openpyxl
 import asyncio
 
 # Танзими бот
-TOKEN = "7522856876:AAG4h3FtTHEVQ9zfHpQV8pPWk7G-oMyP47Y"
+TOKEN = "7593723836:AAFvUVoa887OnUWKH-3ITQAo3mZlo06x71A"
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
